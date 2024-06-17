@@ -2,7 +2,7 @@
 # Lucas Keiji Morikawa
 _Sou um estudante de Análise e desenvolvimento de sistemas e estou começando agora minha jornada para se tornar um **Progamador**._
 
-- 📚 Estudando: Java
+- 📚 Estudando: Python
 
 <picture>
   <source
@@ -22,7 +22,7 @@ _Sou um estudante de Análise e desenvolvimento de sistemas e estou começando a
 ![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-151515?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-151515.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ---
 ## Conecte-se comigo!
